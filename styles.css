@@ -1,6 +1,6 @@
 
 body {
-  background-color: #a4c2f4ff;
+  background-color: #F9E8BC;
   margin: 0;
   padding: 0;
 }
@@ -56,7 +56,7 @@ h4 {
 }
 
 .headers {
-  background-color: #FF9FB2;
+  background-color: #ef5a5a;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -103,7 +103,7 @@ p {
   border-style: solid;
   border-color: rgb(69, 69, 69);
   padding: 10px;
-  background-color: #FF9FB2;
+  background-color: #f9f996;
   border-radius: 25px;
   box-shadow: 5px 5px black; 
   font-family: sans-serif; 
@@ -117,7 +117,7 @@ p {
   border-style: solid;
   border-color: rgb(69, 69, 69);
   padding: 2px;
-  background-color: #fce5b3;
+  background-color: #f9f996;
   border-radius: 25px;
   box-shadow: 5px 5px black; 
   width: 400px; 
